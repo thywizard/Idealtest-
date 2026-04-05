@@ -13,31 +13,31 @@
 
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "1775398651151.jpg",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/jpg",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "1775398651151.jpg",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpg",
       "purpose": "any maskable"
     }
   ],
 
   "screenshots": [
     {
-      "src": "icons/screenshot-wide.png",
+      "src": "1775398651151.jpg",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "ConflictPulse News Feed"
     },
     {
-      "src": "icons/screenshot-mobile.png",
+      "src": "1775398651151.jpg",
       "sizes": "390x844",
-      "type": "image/png",
+      "type": "image/jpg",
       "form_factor": "narrow",
       "label": "ConflictPulse on Mobile"
     }
@@ -49,14 +49,14 @@
       "short_name": "Feed",
       "description": "Open the live news feed",
       "url": "/feed.html",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "1775398651151.jpg", "sizes": "192x192" }]
     },
     {
       "name": "Breaking News",
       "short_name": "Breaking",
       "description": "View breaking news",
       "url": "/feed.html?importance=breaking",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "1775398651151.jpg", "sizes": "192x192" }]
     }
   ],
 
